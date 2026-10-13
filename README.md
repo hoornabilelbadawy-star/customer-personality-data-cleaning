@@ -1,25 +1,23 @@
 Customer Personality Analysis – Data Cleaning
 
-Internship Task 1 – Swynex
+1 – SWYNEX Internship Task 
 
 This project is Task 1 of my internship at Swynex, focusing on data cleaning and preparation using Microsoft Excel Power Query.
 
 The goal is to improve data quality, handle missing values, identify inconsistencies, and prepare the dataset for further analysis.
 
-Dataset
+* Dataset :
 
 The dataset contains customer information, including income, education, marital status, enrollment dates, and responses to marketing campaigns.
 
+* Source: Customer Personality Analysis – Kaggle
 
+*Tools Used
 
-Source: Customer Personality Analysis – Kaggle
+- Microsoft Excel
+- Power Query
 
-Tools Used
-
-* Microsoft Excel
-* Power Query
-
-Data Cleaning Steps
+* Data Cleaning Steps
 
 1. Checked the ID column for duplicate values.
 2. Trimmed unnecessary spaces in the Education and Marital_Status columns.
@@ -30,10 +28,10 @@ Data Cleaning Steps
 7. Converted campaign acceptance, complaint, and response indicators from numeric values into readable labels.
 8. Reviewed constant-value columns for their relevance to future analysis.
 
-Notes
+ * Notes
 
 Cleaning decisions were made to improve consistency while preserving the original data where appropriate. Unexpected values and potential outliers were flagged for review rather than automatically removed.
 
-Current Status
+* Current Status
 
 Data cleaning and preparation are in progress. Further analysis may follow after the data quality checks are completed.
