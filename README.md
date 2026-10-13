@@ -1,11 +1,19 @@
-Customer Personality Analysis
-– Data Cleaning
-- Swynex Internship Task 1 
--This project is Task 1 of my internship at Swynex, focusing on data cleaning and preparation using Microsoft Excel Power Query.
--The goal is to improve data quality, handle missing values, identify inconsistencies, and prepare the dataset for further analysis.
-Dataset :The dataset contains customer information, including income, education, marital status, enrollment dates, and responses to marketing campaigns.
+Customer Personality Analysis – Data Cleaning
+
+Internship Task 1 – Swynex
+
+This project is Task 1 of my internship at Swynex, focusing on data cleaning and preparation using Microsoft Excel Power Query.
+
+The goal is to improve data quality, handle missing values, identify inconsistencies, and prepare the dataset for further analysis.
+
+Dataset
+
+The dataset contains customer information, including income, education, marital status, enrollment dates, and responses to marketing campaigns.
+
+
 
 Source: Customer Personality Analysis – Kaggle
+
 Tools Used
 
 * Microsoft Excel
